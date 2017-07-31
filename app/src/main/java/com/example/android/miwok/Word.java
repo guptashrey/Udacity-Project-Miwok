@@ -36,7 +36,7 @@ public class Word {
         return mImageResourceID;
     }
 
-    public int getmAudioResourceIdeID() {
+    public int getAudioResourceId() {
         return mAudioResourceId;
     }
 
